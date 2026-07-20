@@ -1,3 +1,9 @@
+# Framework-owned session-protocol files, synced verbatim from ~/code/ai by its
+# INSTALL.md; formatting them would diverge from the source of truth.
+.session.md
+AGENTS.md
+CLAUDE.md
+
 .DS_Store
 .moon/
 CHANGELOG.md
